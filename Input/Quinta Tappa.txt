@@ -1,0 +1,8 @@
+Ale;9
+Arcoletto;9
+Cristian;13
+Mauro;9
+Paglio;15
+Rosario;12
+Telara;9
+Tenma;23

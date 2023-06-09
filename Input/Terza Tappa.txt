@@ -1,0 +1,6 @@
+Ale;15
+Arcoletto;6
+Cristian;12
+Paglio;19
+Rosario;20
+Stevalba;3

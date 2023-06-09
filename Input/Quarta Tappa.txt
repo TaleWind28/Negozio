@@ -1,0 +1,9 @@
+Ale;15
+Arcoletto;9
+Cristian;18
+Mauro;12
+Rosario;15
+Salini;9
+Telara;18
+Tenma;25
+Torroncino;29

@@ -1,0 +1,5 @@
+Arcoletto;15
+Mauro;15
+Nikito;6
+Paglio;20
+Rosario;19

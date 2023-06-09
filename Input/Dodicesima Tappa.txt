@@ -1,0 +1,5 @@
+Ale;15
+Luciano;9
+Rosario;23
+Tommy;3
+Lorenzo;12

@@ -1,0 +1,7 @@
+Ale;16
+Arcoletto;9
+Cristian;12
+Luciano;3
+Rosario;18
+Torroncino;20
+Mattia;6

@@ -1,0 +1,5 @@
+Ale;12
+Arcoletto;6
+Mauro;16
+Paglio;18
+Rosario;23
