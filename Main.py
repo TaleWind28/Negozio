@@ -17,7 +17,7 @@ with open('Negozio/Classifica.txt','w') as f:
     for y in a:
         for x in giocatori:
             if not x.printed and x.punteggio == y:
-                stampa.Printing(x,i,f)
+                f.write(stampa.Printing(x,i))
                 if i<giocatori.__len__():
                     f.write('\n')
                 x.printed = True
