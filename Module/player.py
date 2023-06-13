@@ -3,6 +3,7 @@ class Player:
         self.nome = nome
         self.punteggio = punteggio
         self.printed = False
+        self.tornei = 1
 
 def GenPlayer(string,p):
         l1 = string.split(';')
@@ -18,4 +19,5 @@ def AddPlayer(string,p):
     for x in p:
         if x.nome == l1[0]:
             x.punteggio+=punt
+            x.tornei+=1
 

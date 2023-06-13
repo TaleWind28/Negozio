@@ -5,3 +5,6 @@ def Printing(x,i,f):
     f.write(x.nome)
     f.write(':')
     f.write(str(x.punteggio))
+    f.write(' (')
+    f.write(str(x.tornei))
+    f.write(' tornei)')
